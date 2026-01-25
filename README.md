@@ -12,3 +12,5 @@ A simple and interactive To-Do List application built using React.js to help man
 2. Click **Add** to add the task to the list.
 3. Click on a task to mark it as completed.
 4. Click ❌ to remove a task from the list.
+
+   The website can be accessed from: https://jestyjose.github.io/react-todo/
